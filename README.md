@@ -1,2 +1,0 @@
-# Hello-code
-First repo
